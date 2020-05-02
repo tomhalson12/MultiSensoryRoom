@@ -1,0 +1,16 @@
+{
+			"id": 9,
+			"agents": [
+				{ "x": 3, "y": 3 }
+			],
+			"base": {"x": 3, "y": 3 },
+			"energy_category": "75000",
+			"height": 7,
+			"obstacles": [
+				{ "x": 4, "y": 2 }
+			],
+			"resources":[
+				{ "qty": 5, "type": 2, "x": 6, "y": 6 },
+			],
+			"width": 7
+		},
