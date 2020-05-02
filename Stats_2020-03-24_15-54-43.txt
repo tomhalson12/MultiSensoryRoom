@@ -1,0 +1,34 @@
+Stats: 
+
+LightTube:
+  Green = 100
+
+  Red = 0
+
+  Blue = 0
+
+LightBars:
+  White = 100
+
+  Green = 0
+
+  Red = 0
+
+  Blue = 0
+
+BubbleTube:
+  Green = 100
+
+  Red = 0
+
+  Blue = 0
+
+SoundDisplay:
+  Fire = 100
+
+  Rain = 0
+
+  Birds = 0
+
+  Beach Waves = 0
+
