@@ -31,4 +31,8 @@ SoundDisplay:
   Birds = 0
 
   Beach Waves = 0
+  
+WallsDown:
+  Up: 100
+  Down: 0
 
